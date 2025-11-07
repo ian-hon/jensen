@@ -9,8 +9,8 @@ export default function Home() {
                 <Image className={styles.jensen} src="/jensen.png" alt="" height="500" width="500" />
                 <div className={styles.description}>
                     <h1>hi im jensen</h1>
-                    <h2>i like suhing dih</h2>
-                    <h2>i luh dih in ma buh 😛</h2>
+                    <h2>i like guitars</h2>
+                    <h2>i m learning to code 😛</h2>
                 </div>
             </div>
         </div>
